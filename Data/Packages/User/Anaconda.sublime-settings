@@ -1,0 +1,5 @@
+// {
+// //in theory, if you add python Application path to Windows environment variable PATH, `python_interpreter` is undesired
+//     "python_interpreter": "D:\\Software\\Python37",  // input your python interpreter path
+//     "auto_python_builder_enabled": false,
+// }

@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoPEP8",
+		"DocBlockr",
+		"Git",
+		"MarkdownEditing",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Terminal"
+	]
+}
